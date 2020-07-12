@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://vp2890:vp2890@devcollector.nbiko.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
